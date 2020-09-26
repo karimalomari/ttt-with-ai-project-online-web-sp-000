@@ -2,7 +2,9 @@
 
 require_relative '../config/environment'
 
-def game_start
+puts "Welcome to Tic Tac Toe!"
+
+def start
   puts "Welcome to Tic Tac Toe!"
   puts "Please choose player mode:
   0 - Computer vs. Computer
